@@ -1,0 +1,1 @@
+powershell.exe -noprofile -executionpolicy bypass -file "E:\Code\Powershell\SilentRun\MyPowerShellScript.ps1"
